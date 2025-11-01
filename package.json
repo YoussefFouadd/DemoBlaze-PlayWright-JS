@@ -1,0 +1,20 @@
+{
+  "name": "demoblazeproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "regression": "npx playwright test --headed",
+    "regression-chrome": "npx playwright test --project=chromium",
+    "sanity": "npx playwright test --grep @Sanity --project=chromium",
+    "allure:serve": "allure serve ./allure-results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.2",
+    "allure-playwright": "^3.4.2"
+  }
+}
