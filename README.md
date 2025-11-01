@@ -1,6 +1,6 @@
 # Project Title
 
-[Demo Blaze](https://www.demoblaze..com)
+[Demo Blaze](https://www.demoblaze.com)
 Web automation testing project for DemoBlaze website using Playwright & Js with Page Object Model (POM) pattern.
 
 ## Built With
