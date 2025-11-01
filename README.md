@@ -30,7 +30,7 @@ demoBlazeProject/
 ├── tests/                          # Test scenarios
 │
 ├── utils/                         
-│   └── APIUtils.js                # API authentication
+│   └── APIUtils.js                # Token authentication
 │
 ├── test-data.json                  # External test data
 │
@@ -43,7 +43,7 @@ demoBlazeProject/
 
 - [Node.js](https://nodejs.org/en/download)
 
-- npm or [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
+- npm (installed with node) or [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
 
 ## Installation
 
@@ -92,7 +92,7 @@ Then open the URL shown in the terminal (usually `http://localhost:XXXXX`)
 
 ## Test Execution Video Link
 
-[Test Execution Video](https://drive.google.com/file/d/1Au571X0qKa9A1WN5LJE2oyDl78J-d8q2/view?usp=drive_link) - A video of test execution for all tests in the project
+[Test Execution Video](https://drive.google.com/file/d/1xaZv5n3NsrPVYag9Ju7XrRgGz0ddKo5Q/view?usp=sharing) - A video of test execution for all tests in the project
 
 ## Author
 
